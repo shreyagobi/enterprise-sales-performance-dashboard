@@ -1,10 +1,10 @@
- Enterprise Sales Performance Dashboard
+# Enterprise Sales Performance Dashboard
 
 An interactive **sales analytics and business intelligence dashboard** built using Tableau Public to explore sales revenue, profitability, customer performance, regional trends, and discount impact.
 
- Live Dashboard
+## Live Dashboard
 
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/shreya.g2008/viz/EnterpriseSalesPerformanceDashboard_17926848327930/Dashboard1)**
+🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/shreya.g2008/viz/EnterpriseSalesPerformanceDashboard_17926848327930/Dashboard1)**
 
 ## Project Overview
 
@@ -12,15 +12,15 @@ This project transforms enterprise sales data into interactive visualizations th
 
 The dashboard brings key performance indicators (KPIs) and multiple analytical views into a single interface to support data-driven decision-making.
 
- Dashboard Features
+## Dashboard Features
 
-Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 - **Total Sales Revenue:** Overall revenue generated.
 - **Total Profit:** Total profit across recorded transactions.
 - **Total Quantity:** Total quantity of products sold.
 - **Average Discount:** Average discount rate across transactions.
 
- Visual Analytics
+### Visual Analytics
 - **Monthly Sales & Profit Trend:** Examines changes in sales and profit over time.
 - **Regional Breakdown:** Compares sales performance across regions.
 - **Top 10 Accounts:** Identifies the ten customer accounts with the highest sales revenue.
