@@ -1,0 +1,101 @@
+# Enterprise Sales Performance Dashboard
+
+An interactive **sales analytics and business intelligence dashboard** built using Tableau Public to explore sales revenue, profitability, customer performance, regional trends, and discount impact.
+
+## Live Dashboard
+
+🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/shreya.g2008/viz/EnterpriseSalesPerformanceDashboard_17926848327930/Dashboard1)**
+
+## Project Overview
+
+This project transforms enterprise sales data into interactive visualizations that help users understand business performance and identify patterns in revenue, profit, and customer purchasing activity.
+
+The dashboard brings key performance indicators (KPIs) and multiple analytical views into a single interface to support data-driven decision-making.
+
+## Dashboard Features
+
+### Key Performance Indicators (KPIs)
+- **Total Sales Revenue:** Overall revenue generated.
+- **Total Profit:** Total profit across recorded transactions.
+- **Total Quantity:** Total quantity of products sold.
+- **Average Discount:** Average discount rate across transactions.
+
+### Visual Analytics
+- **Monthly Sales & Profit Trend:** Examines changes in sales and profit over time.
+- **Regional Breakdown:** Compares sales performance across regions.
+- **Top 10 Accounts:** Identifies the ten customer accounts with the highest sales revenue.
+- **Discount vs Profit Analysis:** Explores the relationship between discount rates and profitability.
+
+## Tools & Technologies
+
+- **Tableau Public** — Dashboard development and data visualization
+- **CSV** — Tabular data source
+- **Exploratory Data Analysis (EDA)** — Analysis of sales and profitability patterns
+- **Business Intelligence** — KPI monitoring and performance analysis
+
+## Dataset
+
+The project uses a structured enterprise sales dataset containing fields such as:
+
+- Order ID and Order Date
+- Region and Market
+- Customer Name
+- Product Category
+- Sales Revenue and Profit
+- Quantity and Discount Rate
+- Shipping Cost and Unit Price
+
+*Dataset availability depends on the source's licensing and sharing permissions. Include the CSV in this repository only if you have permission to redistribute it.*
+
+## Key Insights This Dashboard Supports
+
+The visualizations are designed to help users investigate questions such as:
+
+1. How do sales revenue and profit change month by month?
+2. Which regions contribute the most sales?
+3. Which customer accounts generate the highest revenue?
+4. How are discount rates associated with profit?
+5. How can KPIs help monitor overall business performance?
+
+The dashboard supports exploration of these questions; specific business conclusions should be drawn from the underlying data rather than assumed in advance.
+
+## How to Explore the Project
+
+1. Open the [live Tableau dashboard](https://public.tableau.com/app/profile/shreya.g2008/viz/EnterpriseSalesPerformanceDashboard_17926848327930/Dashboard1).
+2. Explore the KPI cards to review overall performance.
+3. Examine the monthly trend and regional comparison.
+4. Review the Top 10 Accounts chart.
+5. Explore the Discount vs Profit scatter plot.
+
+## Project Structure
+
+```text
+enterprise-sales-performance-dashboard/
+├── README.md
+├── data/
+│   └── enterprise_sales_performance.csv
+└── screenshots/
+    └── dashboard-overview.png
+```
+
+The `data/` and `screenshots/` folders are optional. Add them only if you have the permitted dataset and a screenshot of your published dashboard.
+
+## Skills Demonstrated
+
+- Data visualization and dashboard design
+- KPI development and business performance monitoring
+- Trend and comparative analysis
+- Customer and regional sales analysis
+- Exploratory data analysis
+- Communicating analytical results through visual storytelling
+
+## Author
+
+**Shreya G.**
+
+- GitHub: [shreyagobi](https://github.com/shreyagobi)
+- LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/shreya-gobinath-b8370a3a1/)
+
+## License
+
+A license for this repository should be added after confirming the permissions for the dataset and any other included materials. Do not assume the source dataset is open for redistribution.
